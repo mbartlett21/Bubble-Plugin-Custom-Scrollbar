@@ -1,7 +1,5 @@
 {
     "dependencies": {
         "use_jquery": false
-    },
-    "shared_keys": {
     }
 }
