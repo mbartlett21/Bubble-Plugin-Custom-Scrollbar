@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "technical"
+    },
+    "description": "This plugin adds custom scrollbars to your app's pages. Colours, widths and more can be adjusted",
+    "image": "//s3.amazonaws.com/appforest_uf/f1533560013069x846037440234795300/scroll.PNG",
+    "license": "open_source",
+    "link": "https://github.com/mbartlett21/Bubble-Plugin-Custom-Scrollbar/issues",
+    "name": "Custom Scrollbar Free",
+    "plugin_instructions": ""
+}
