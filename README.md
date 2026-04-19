@@ -1,3 +1,4 @@
-This is a repository based on the [Bubble](https://bubble.is) plugin 'Custom Scrollbar'. This lets you use Github's functionality in terms of version control, forks and pull requests. Note that the the plugin code is stored on Bubble's servers, and you need to synchronize your repository in the Bubble Plugin Editor. 
+This is a repository based on the [Bubble](https://bubble.is) plugin 'Custom Scrollbar'.
 
- This plugin can be used in [Bubble applications](https://bubble.is).
+# Contributing, etc
+Note that contributions are not accepted, and support is not provided.
